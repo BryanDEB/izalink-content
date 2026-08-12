@@ -1,0 +1,20 @@
+[
+  {
+    "nom": "Ressources humaines",
+    "fonction": "RH",
+    "telephone": "+33555123456",
+    "email": "rh@izaret.fr"
+  },
+  {
+    "nom": "Alerte / Signalement",
+    "fonction": "Sécurité",
+    "telephone": "+33555987654",
+    "email": "alerte@izaret.fr"
+  },
+  {
+    "nom": "Assistance informatique",
+    "fonction": "Informatique",
+    "telephone": "+33555111111",
+    "email": "informatique@izaret.fr"
+  }
+]
