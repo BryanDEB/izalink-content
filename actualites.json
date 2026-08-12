@@ -1,22 +1,22 @@
 [
   {
-"    ""id"": 1,"
-"    ""titre"": ""Nouvelle procédure sécurité"","
-"    ""date"": ""12/08/2026"","
-"    ""categorie"": ""Sécurité"","
-"    ""contenu"": ""Une nouvelle procédure de contrôle avant départ est disponible. Merci d'en prendre connaissance."","
-"    ""important"": true,"
-"    ""imageUrl"": ""https://raw.githubusercontent.com/BryanDEB/izalink-content/refs/heads/main/Imagescontent/depositphotos_226679550-stock-illustration-fun-unicorn-illustration.jpg"","
-"    ""pdfUrl"": ""https://izaret.fr/notre-actualite/"""
+    "id": 1,
+    "titre": "Nouvelle procédure sécurité",
+    "date": "12/08/2026",
+    "categorie": "Sécurité",
+    "contenu": "Une nouvelle procédure de contrôle avant départ est disponible. Merci d'en prendre connaissance.",
+    "important": true,
+    "imageUrl": "https://raw.githubusercontent.com/BryanDEB/izalink-content/main/Imagescontent/depositphotos_226679550-stock-illustration-fun-unicorn-illustration.jpg",
+    "pdfUrl": "https://izaret.fr/notre-actualite/"
   },
   {
-"    ""id"": 2,"
-"    ""titre"": ""Information entreprise"","
-"    ""date"": ""10/08/2026"","
-"    ""categorie"": ""Entreprise"","
-"    ""contenu"": ""Retrouvez les dernières informations concernant l'entreprise."","
-"    ""important"": false,"
-"    ""imageUrl"": """","
-"    ""pdfUrl"": """""
+    "id": 2,
+    "titre": "Information entreprise",
+    "date": "10/08/2026",
+    "categorie": "Entreprise",
+    "contenu": "Retrouvez les dernières informations concernant l'entreprise.",
+    "important": false,
+    "imageUrl": "",
+    "pdfUrl": ""
   }
 ]
