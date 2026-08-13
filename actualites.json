@@ -30,7 +30,7 @@
     "imageUrl": "",
     "pdfUrl": ""
   },
-  
+
    {
     "id": 3,
     "titre": "Test IBIZA ",
@@ -39,6 +39,6 @@
     "contenu": "Angélique est revenu de IBIZA",
     "important": true,
     "imageUrl": "",
-    "pdfUrl": "https://www.bullionbypost.fr/cours-de-lor/?utm_source=google&utm_medium=cpc&utm_campaign={campaign}&utm_id=259610789&utm_content=107423713348&utm_term=cours%20de%20l%27or&gad_source=1&gad_campaignid=259610789&gclid=Cj0KCQjwj47OBhCmARIsAF5wUEGvi9bDmfFGRzJqq8JcHGy5rtgqR2_FiwAQ4LWoIM60ud_1L-jFG5kaAv-jEALw_wcB"
+    "pdfUrl": "https://www.bullionbypost.fr/"
   }
 ]
