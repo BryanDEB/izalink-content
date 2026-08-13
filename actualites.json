@@ -29,16 +29,5 @@
     "important": false,
     "imageUrl": "",
     "pdfUrl": ""
-  },
-
-   {
-    "id": 3,
-    "titre": "Test IBIZA ",
-    "date": "10/08/2026",
-    "categorie": "Entreprise",
-    "contenu": "Angélique est revenu de IBIZA",
-    "important": true,
-    "imageUrl": "",
-    "pdfUrl": "https://www.bullionbypost.fr/"
   }
 ]
