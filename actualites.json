@@ -1,33 +1,43 @@
 [
   {
     "id": 1,
-    "titre": "Nouvelle procédure sécurité",
-    "date": "12/08/2026",
-    "categorie": "Sécurité",
-    "contenu": "Une nouvelle procédure de contrôle avant départ est disponible. Merci d'en prendre connaissance.",
+    "titre": "Actus #4",
+    "date": "11/11/2024",
+    "categorie": "Croissance externe",
+    "contenu": "Intégration de DW Trans au groupe IZARET : Une nouvelle étape stratégique",
     "important": true,
-    "imageUrl": "https://raw.githubusercontent.com/BryanDEB/izalink-content/main/Imagescontent/depositphotos_226679550-stock-illustration-fun-unicorn-illustration.jpg",
-    "pdfUrl": "https://izaret.fr/notre-actualite/"
+    "imageUrl": "",
+    "pdfUrl": "https://izaret.fr/wp-content/uploads/2024/11/IZARET-ACTUS4_nov-2024.pdf"
   },
   {
     "id": 2,
-    "titre": "Information entreprise",
-    "date": "10/08/2026",
-    "categorie": "Entreprise",
-    "contenu": "Retrouvez les dernières informations concernant l'entreprise.",
+    "titre": "Actus #5",
+    "date": "05/01/2025",
+    "categorie": "Ressources Humaines",
+    "contenu": "La polyvalence à l'honneur chez IZARET",
     "important": false,
     "imageUrl": "",
-    "pdfUrl": ""
+    "pdfUrl": "https://izaret.fr/wp-content/uploads/2025/02/IZARET-ACTUS5_janvier-fevrier-2025.pdf"
   },
   
   {
     "id": 3,
-    "titre": "Test oui oui ",
-    "date": "10/08/2026",
-    "categorie": "Entreprise",
-    "contenu": "mario.",
+    "titre": "Actus #6 ",
+    "date": "24/09/2025",
+    "categorie": "Sécurité",
+    "contenu": "Semaine de la sécurité IZARET - Pour tous et par tous !",
     "important": false,
     "imageUrl": "",
-    "pdfUrl": ""
+    "pdfUrl": "https://izaret.fr/wp-content/uploads/2025/10/Actus6_septembre2025.pdf"
+  },
+    {
+    "id": 4,
+    "titre": "Actus #7 Décembre 2025",
+    "date": "10/12/2025",
+    "categorie": "Entreprise",
+    "contenu": "Ecovadis, un médaille en OR pour IZARET.",
+    "important": false,
+    "imageUrl": "",
+    "pdfUrl": "https://izaret.fr/wp-content/uploads/2026/01/IZARET-ACTUS_7.pdf"
   }
 ]
