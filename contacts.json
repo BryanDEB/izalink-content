@@ -5,40 +5,34 @@
     "telephone": "+33555023662",
     "email": "rh@izaret.fr"
   },
-  
   {
     "nom": "Exploitation Limousin",
     "fonction": "Exploitation",
     "telephone": "+33555023662",
     "email": "exploitation.limousin@izaret.fr"
   },
-  
   {
     "nom": "Exploitation Aquitaine",
     "fonction": "Exploitation",
     "telephone": "+33556855585",
     "email": "exploitation.aquitaine@izaret.fr"
   },
-  
   {
     "nom": "Exploitation Ile de France",
     "fonction": "Exploitation",
     "telephone": "+33160231586",
     "email": "exploitation.iledefrance@izaret.fr"
   },
-  
   {
     "nom": "Exploitation Vendée",
     "fonction": "Exploitation",
     "telephone": "+33251436996",
     "email": "exploitation.vendee@izaret.fr"
   },
- 
   {
     "nom": "Exploitation Occitanie",
     "fonction": "Exploitation",
     "telephone": "+33561872101",
     "email": "exploitation.occitanie@izaret.fr"
   }
-]
 ]
