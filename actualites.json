@@ -1,17 +1,48 @@
 [
   {
     "id": 1,
-    "titre": "Actus #4",
+    "titre": "Actus #1 Janvier 2024",
+    "date": "05/01/2024",
+    "categorie": "Qualité Sécurité Environnement",
+    "contenu": "La sécurité, enjeu majeur IZARET, récompensé par PRIMAGAZ",
+    "important": false,
+    "imageUrl": "",
+    "pdfUrl": "https://izaret.fr/wp-content/uploads/2024/01/IZARET-ACTUS1_mail.pdf"
+  },
+  {
+    "id": 2,
+    "titre": "Actus #2 Avril 2024",
+    "date": "25/04/2024",
+    "categorie": "Métier",
+    "contenu": "La conduite de porte-voitures",
+    "important": false,
+    "imageUrl": "",
+    "pdfUrl": "https://izaret.fr/wp-content/uploads/2024/04/IZARET-ACTUS2_avril2024_mail.pdf"
+  },
+  {
+    "id": 3,
+    "titre": "Actus #3 Juin 2024",
+    "date": "20/06/2024",
+    "categorie": "Developpement",
+    "contenu": "Inauguration de notre nouvelle agence IZARET Vendée",
+    "important": false,
+    "imageUrl": "",
+    "pdfUrl": "https://izaret.fr/wp-content/uploads/2024/07/IZARET-ACTUS3_BD.pdf"
+  },
+  
+  {
+    "id": 4,
+    "titre": "Actus #4 Novembre 2024",
     "date": "11/11/2024",
     "categorie": "Croissance externe",
     "contenu": "Intégration de DW Trans au groupe IZARET : Une nouvelle étape stratégique",
-    "important": true,
+    "important": false,
     "imageUrl": "",
     "pdfUrl": "https://izaret.fr/wp-content/uploads/2024/11/IZARET-ACTUS4_nov-2024.pdf"
   },
   {
-    "id": 2,
-    "titre": "Actus #5",
+    "id": 5,
+    "titre": "Actus #5 Janvier 2025",
     "date": "05/01/2025",
     "categorie": "Ressources Humaines",
     "contenu": "La polyvalence à l'honneur chez IZARET",
@@ -21,8 +52,8 @@
   },
   
   {
-    "id": 3,
-    "titre": "Actus #6 ",
+    "id": 6,
+    "titre": "Actus #6 Septembre 2025 ",
     "date": "24/09/2025",
     "categorie": "Sécurité",
     "contenu": "Semaine de la sécurité IZARET - Pour tous et par tous !",
@@ -31,7 +62,7 @@
     "pdfUrl": "https://izaret.fr/wp-content/uploads/2025/10/Actus6_septembre2025.pdf"
   },
     {
-    "id": 4,
+    "id": 7,
     "titre": "Actus #7 Décembre 2025",
     "date": "10/12/2025",
     "categorie": "Entreprise",
