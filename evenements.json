@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "titre": "Test",
+    "date": "12/09/2026",
+    "heure": "09:00",
+    "lieu": "LTIL",
+    "description": "test",
+    "imageUrl": "",
+    "pdfUrl": "",
+    "important": true,
+    "actif": true
+  }
+]
